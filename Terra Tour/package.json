@@ -1,0 +1,8 @@
+{
+  "name": "terra-tour",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page dan backend inquiry Terra Tour Lampung",
+  "scripts": { "start": "node server.js", "test": "node --test" },
+  "engines": { "node": ">=18" }
+}
